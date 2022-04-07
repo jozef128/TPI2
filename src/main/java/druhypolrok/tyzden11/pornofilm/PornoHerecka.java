@@ -80,5 +80,6 @@ public class PornoHerecka {
 
         // sout bude "xyz sa zucastnil na obstastneni pornohereciky menom ... "
         // treba odcitat 6.0 z objemu vacku kazdeho pornoherca.
+        //prdel
     }
 }
